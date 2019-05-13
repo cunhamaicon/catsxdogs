@@ -13,4 +13,4 @@ catsxdogs_transfer.ipynb -> Implementação da rede de classificação con tranf
 
 catsxdogs_mobilenet.h5 -> Modelo com informações da rede após o processo de treinamento.
 
-prediction_catsxdogs.ipynb -> Arquivo simples onde on-line é possível executar a previsão de uma imagem como cachorro ou gato, bastando somente inserir uma url com o endereço da imagem.
+prediction_catsxdogs.ipynb -> On-line utilizando o colab é possível executar a previsão de uma imagem como cachorro ou gato, bastando somente inserir uma url com o endereço da imagem.
