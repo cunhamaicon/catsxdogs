@@ -9,7 +9,7 @@ Todo o código foi feito no colab e pode ser executado on-line.
 
 Arquivos:
 
-catsxdogs_transfer.ipynb -> Implementação da rede de classificação con tranfer learning comentada.
+catsxdogs_transfer.ipynb -> Implementação da rede de classificação com tranfer learning comentada.
 
 catsxdogs_mobilenet.h5 -> Modelo com informações da rede após o processo de treinamento.
 
